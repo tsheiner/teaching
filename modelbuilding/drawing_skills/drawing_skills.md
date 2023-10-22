@@ -17,7 +17,7 @@ Any paper will do for sketching, including the oftmentioned back of an envelope 
 **Pens**
 You need pens with three different line weights. Black ink eliminates the distraction of color, and guarantees high contrast drawings which are easy to read and photocopy. I use rolling balltype pens for my ﬁner lines and felttipped or markers for thicker marks. I don't use Sharpies for drawings because the ink becomes greenish over time, and leaves a yellow phantom on the facing page of your book.
 
-I use pencil only rarely for making plans, and then I go over it with ink as soon as I like what I have drawn. Pencils smudge, are hard to read, and don\'t photocopy well. Some people sketch with a photo blue pencil ﬁrst because these lines don\'t photo copy at all. I don\'t do this because I like to see my construction lines.
+I use pencil only rarely for making plans, and then I go over it with ink as soon as I like what I have drawn. Pencils smudge, are hard to read, and don't photocopy well. Some people sketch with a photo blue pencil ﬁrst because these lines don't photo copy at all. I don't do this because I like to see my construction lines.
 
 **Measuring**
 I keep a tape measure and a calipers nearby when I am sketching plansbecause I often need to get an idea of how large (or small) the thing I am designing will be.
@@ -35,11 +35,11 @@ When doing part drawings (discussed below) you should get in the habit of using 
 ![](../images/lineconvention.svg)
 
 **Shading and Shadows**
-Shading is generally not included in formal part drawings, but for quick sketches and working drawings a bit of shading can be very helpful. Shading helps deﬁne volume, texture, and the boundaries between forms. When you are trying to work out a complicated structure, adding shading can help you \"see\" in your mind\'s eye what the correct relationships should be.
+Shading is generally not included in formal part drawings, but for quick sketches and working drawings a bit of shading can be very helpful. Shading helps deﬁne volume, texture, and the boundaries between forms. When you are trying to work out a complicated structure, adding shading can help you \"see\" in your mind's eye what the correct relationships should be.
 
 Three different tonal values is usually plenty for sketches and often two is enough. Just as in line weight, you must be consistent; shade the same sides of your objects the same way.
 
-Use shadows to help you see the breaks between surfaces or the relationship between parts. Shadows can also function a bit like vignettes; they establish a foreground and background in your sketches.   AWordAbout Clarity   Working drawings are for getting ideas down quickly, solving problems before moving to three dimensional materials, and exploring. Because they are often intended only for personal use, it would seem that one needn\'t be too concerned with clarity: if my thinking is a bit confusing what should that matter to you?
+Use shadows to help you see the breaks between surfaces or the relationship between parts. Shadows can also function a bit like vignettes; they establish a foreground and background in your sketches.   AWordAbout Clarity   Working drawings are for getting ideas down quickly, solving problems before moving to three dimensional materials, and exploring. Because they are often intended only for personal use, it would seem that one needn't be too concerned with clarity: if my thinking is a bit confusing what should that matter to you?
 
 In fact, it does matter for at least three reasons. The ﬁrst is that if your sketches are muddled and unclear it is quite likely that there will be important details you have ignored, or only partially solved. Second, looked at after even a few days, a sketch that was once clear to you can be suddenly confusing. Finally, and most importantly, it turns out that rarely is your sketch just for you. Your work can always be improved by sharing your ideas with others, and clear sketches make sharing ideas much easier.
 
