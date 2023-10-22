@@ -47,9 +47,8 @@ In fact, it does matter for at least three reasons. The ﬁrst is that if your s
 
 This having been said, you should not go overboard towards perfection either. Working drawings are meant for building things. Work to develop a style that is attractive, quick, and clear. You can always dress up the drawing later if the situation requires it.
 
-Working drawings have, by convention, several different formats. Each is intended to show a different aspect of the object. You can use a combination of these different types to work out 
-
-## Types of Drawings 
+## Types of Drawings
+Working drawings have, by convention, several different formats. Each is intended to show a different aspect of the object. You can use a combination of these different types to work out how to build a model. 
 
 #### Perspective   
 A perspective drawing can be very helpful in planning the construction of a model. Unfortunately, careful perspective drawings take a long time to do. Therefore, for planning your models you should learn to create a cliched set of shapes that you can quickly and convincingly draw in perspective. Practice drawing cubes, spheres and cylinders from one or two points of view. Because most forms can be built up from these primitives, once you can draw them, you can draw most of the things you can imagine.
