@@ -52,7 +52,7 @@ I recommend this for model making.   Because it can be used wet or dry it is mor
 This is made by bonding grit to a rough cloth.  This makes a tougher product, better for the disks and belts used by power sanders.  Although it works fine, there is no reason to use it for shaping foam.   
 
 #### Rasp
-Usually metal, occassionally plastic, a rasp is great for removing a lot of material quickly. The caveat is a rasp can only be used on foams that have enough structural integrity to allow material to removed without the surface tearing.
+A rasp is great for removing a lot of material quickly. The kind madae from preforated steel works best.
 
 #### Chisel
 
@@ -79,7 +79,7 @@ Foam  is the first material we have discussed that justifies using power tools. 
 
 Before discussing the specific machines I will mention a few general safety issues.   The first involves getting part of you caught by or in a machine. To minimize the risk of this, in a shop you should wear close fitting clothing,  remove all jewelry, and tie back long hair.
 
-Another risk in using these machines is their ability to unexpectedly grab and throw your work piece.  This is called kickback.  It is dangerous both because the thrown piece becomes a missile and because as the piece kicks your hand can be dragged into the cutter or you can be startled into moving your hand into the cutter.  Kickback occurs when the work piece gets momentarily jammed between the moving cutter and the fixed work table of the machine.  You prevent this by maintaining a constant, controlled relationship between your work piece, the machine and your body parts.
+Another risk in using these machines is their ability to unexpectedly grab and throw your work piece.  This is called kickback.  It is dangerous both because the thrown piece becomes a missile and because as the piece kicks your hand can be dragged into the cutter or you can be startled into moving your hand into the cutter.  Kickback occurs when the work piece gets momentarily jammed between the moving cutter and the fixed work table of the machine.  You prevent this by maintaining a constant, controlled relationship between your work piece, the machine work table and the cutter. I will explain specific kickback risks for each machine below, but in general you need to be vigilant to the risk of kickback before every operation.
 
 Using excessive force with these machines is a common cause of accidents.  Pushing hard increases the chances that you will slip, cause kickback, or when the cut suddenly finishes be unable to keep your hands from moving into the cutter path.  None of the materials you will be using to make models is difficult to cut or sand.  Therefore, if you find yourself pushing your work piece very hard to make a cut something is wrong.  Either the cutter is dull, the cutter speed is incorrect, or you are using the wrong type of cutter for your material.  Stop and figure out what is wrong, ask for help if you need it; do not keep pushing.
 
@@ -108,7 +108,7 @@ There are 3 safety issues to do with drill presses. The first is that if you are
 
 Secondly, you must be wary of the spinning spindle.  Long hair, drawstrings, necklaces, bracelets, loose sleeves, etc. can get instantly wrapped up by the spindle.  Pull your hair back, remove jewelry, and wear reasonably close-fitting clothing.
 
-Finally, the kickback risk with a drill press is that if the bit binds, and the work piece is not clamped it will suddenly start spinning.  If you are drilling sheet metal this can cause a very nasty injury, but even the edge of a piece of wood can cut you.
+Finally, the kickback risk with a drill press is that if the bit binds, and the work piece is not clamped it will suddenly start spinning.  If you are drilling sheet metal this can cause a very nasty injury, but even the edge of a piece of wood can cut you. The risk of kickback is pretty low with standard twist drills, even larger ones. Hole saws are very dangerous and must only be used with a well-clamped workpiece.
 
 #### Sander
 
@@ -131,8 +131,6 @@ The table saw is for cross cutting and ripping material.  It is also for cutting
 It is also the scariest, though I still think the simple chisel is involved in more accidents.  In any case because of its noise, size and obvious violence people automatically treat the table saw with respect.  Unfortunately they focus on the saw blade, while the real danger of this machine is kickback.   Most kickback with a table saw comes from using the parallel fence incorrectly.  It is only meant for ripping, that is, cutting with the long side of your work piece parallel to the saw blade.  If you use the parallel fence for cross cutting your work piece can start to rack or cock between the blade and the fence.  As soon as this happens it will come flying out of the saw.  Never cross cut with the parallel fence. 
 
 ![](../images/tablesaw.svg)
-
- 
 
 Even when using the fence correctly there is a danger of kickback.  If, as you are making your cut, you let off pressure on your work piece and it shifts even slightly so that the blade contacts the side of the kerf the piece will be pushed back towards you.  For this reason you must never let go of your work piece until it is pushed all the way beyond the saw blade.  Because the likelihood of this occurring increases as the space between the blade and fence decreases never try to rip a piece less than one inch wide, even with push sticks.
 
