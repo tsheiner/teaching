@@ -61,9 +61,9 @@ To put the finishing touches on the fillet you will need to wait until the sandi
 
 Making a fillet along a curved surface requires that you have a flat tool with the radius you want.  You could use a radius gauge or the end of a palette knife.  If you don’t have the correct size you can make a template out of thin acrylic or styrene that has the radius you want.  Use this tool to apply the Bondo and create the fillet at the same time.  If the edges of your template meet the edges on both sides of the fillet you will also be able to do most of the cleanup at the same time as well.
 
-**Fixing Corners**
+**Ding Repair**
 
-If you drop the model you have spent hours working on and flatten one of the corners, you can fix it with Bondo.  Begin by cleaning up the damage.  Cut or sand away the broken parts so that you are left with clean, smooth surfaces.  Next make a few scratches in the surface that will be covered by the Bondo.  These scratches give the Bondo something to grab and increase the durability of the repair.  
+The other common use for Bondo is to fix dings. Although it may feel like a tragedy when you drop the model you have spent hours working on and flatten one of the corners, you can fix it with Bondo.  Begin by cleaning up the damage.  Cut or sand away the broken parts so that you are left with clean, smooth surfaces.  Next make a few scratches in the surface that will be covered by the Bondo.  These scratches give the Bondo something to grab and increase the durability of the repair.  
 
 In the putty phase you just want to be sure you have applied enough Bondo.  Put a good sized blob on the corner, one that is definitely larger than the finished repair will be.  Be sure that you have enough Bondo to give you plenty of room to feather the repair into the adjacent surfaces of the part.  Leave the Bondo alone until the carving phase.
 
