@@ -19,18 +19,38 @@ In no order:
 
 <table>
 <tr>
-<td>hard and soft woods wire cloth lacquer paint, custom colors</td> 
-
-<td>scientific equipment such as  fabric, fabric fasteners, but- art supplies</td>
-
-<td>beakers, stopcocks, etc. tons, and sewing supplies</td>
+<td>hard and soft woods 
+<td>wire cloth</td> 
+<td>lacquer paint, custom colors</td> 
 </tr>
 <tr>
-<td>tools, including endmills, various plastics in sheets, rods  mechanical fasteners reamers, and lathe tools and tubes</td>
+<td>scientific equipment such as beakers, stopcocks, etc.  </td>
 
-<td>art paper adhesives and solvents ferrous and non-ferrous metals molding resins</td>
+<td>fabric, fabric fasteners, buttons, and sewing supplies</td> 
 
-<td>mechanical junk and surplus,  hobby materials, scale parts gears, pulleys, motors, etc. for architectural models, etc.</td>
+<td>art supplies</td>
+
+</tr>
+<tr>
+<td>tools, including endmills, reamers, and lathe tools</td>
+
+<td>various plastics in sheets, rods and tubes</td> 
+
+<td>mechanical fasteners</td>
+</tr>
+<tr>
+<td>art paper </td>
+
+<td>adhesives and solvents</td> 
+
+<td>ferrous and non-ferrous metals</td> 
+</tr>
+<tr>
+<td>molding resins</td>
+
+<td>mechanical junk and surplus, gears, pulleys, motors, etc.</td>  
+
+<td>hobby materials, scale parts for architectural models, etc.</td> 
 </tr>
 <tr>
 <td>ceramic supplies</td>

@@ -4,19 +4,19 @@ The following list of tools covers the basic equipment you will need to complete
 
 In choosing your tools you will often be presented with a variety of products in each category.   Which to choose is a personal matter, but my advice is this: base your decision on quality, not cost.  Inferior tools waste time, cause frustration, and deflect the focus from the work to the tool.  However, while cost is often an accurate indicator of quality, the most expensive product is not always the right choice.  Consider the design, the use of materials, and whether the features are relevant to your actual needs.  Tools are a lot like friends: if chosen well they will last a long time and bring you much joy.
 
-* **Storage**      
+* #### Storage      
   * Toolbox
-* **Safety**       
+* #### Safety       
   * Safety Glasses 
   * Rubber Gloves 
   * Respirator 
-* **Cutting**      
+* #### Cutting      
   * X-axto handle #11 #11 
   * x-acto blades * Utility Knife  
   * Drill set in 1/16 increments (optional)  
   * Chisel: 1/4" & 1" (optional) 
   * Rasp
-* **Layout**       
+* #### Layout       
   * 6" Steel Rule 
   * 18" Steel Rule 
   * Protractor 
@@ -24,24 +24,24 @@ In choosing your tools you will often be presented with a variety of products in
   * Pencils 
   * Sharpie 
   * Scribe (optional)                 
-* **Sketching**    
+* #### Sketching    
   * Black pens (3 weights) 
   * Blank book 
   * 30-60-90 Triangle (optional) 
   * 45-90-45 Triangle (optional)       
-* **Measuring**    
+* #### Measuring    
   * Calipers 
   * Measuring Tape 
   * Combination Square                                                        
-* **Manipulation** 
+* #### Manipulation 
   * Tweezers 
   * Small needlenose pliers 
   * Small wire cutters                                               
-* **Finishing**    
+* #### Finishing    
   * Swiss Files 
   * Putty knife 
   * Small palette knife                                                       
-* **Adhesion**     
+* #### Adhesion     
   * Cyanoacrylate glue 
   * Cyanoacrylate catalyst 
   * Hot melt glue gun & sticks 
