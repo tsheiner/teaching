@@ -19,7 +19,7 @@ You need pens with three different line weights. Black ink eliminates the distra
 I use pencil only rarely for making plans, and then I go over it with ink as soon as I like what I have drawn. Pencils smudge, are hard to read, and don't photocopy well. Some people sketch with a photo blue pencil ﬁrst because these lines don't photo copy at all. I don't do this because I like to see my construction lines.
 
 #### Measuring
-I keep a tape measure and a calipers nearby when I am sketching plansbecause I often need to get an idea of how large (or small) the thing I am designing will be.
+I keep a tape measure and a calipers nearby when I am sketching plans because I often need to get an idea of how large (or small) the thing I am designing will be.
 
 ## Style
 The following techniques can make your drawings easier to understand.
@@ -58,7 +58,10 @@ Orthoganol drawings present different views of an object with each view being 90
 
 The convention in the US for deﬁning views is to imagine that for the front view the object is at the bottom of a bowl. The other views are found by sliding the object up the sides of the bowl. I believe that in Europe the convention is reversed and the object is imagined sitting on top of a sphere.
 
-The orthogonal drawing will be the most useful to you when building models. Because no perspective is involved you can create these drawings rapidly and accurately. If the drawing is done carefully, and to scale, measurements may be taken directly from the drawing. When making an orthogonal drawing, leave room on your page to add other views. Once you begin construction, you may realize that you need another view to ﬁgure out a particular detail, and you shouldn't have to redraw the sketch in order to add the view.   Layout orAssembly   A layout or assembly drawing includes all of the parts of your project in their ﬁnal, assembled relationship. In producing mechanical part drawings, a layout drawing of the entire assembly is done ﬁrst, and then is used to create the individual part drawings.
+The orthogonal drawing will be the most useful to you when building models. Because no perspective is involved you can create these drawings rapidly and accurately. If the drawing is done carefully, and to scale, measurements may be taken directly from the drawing. When making an orthogonal drawing, leave room on your page to add other views. Once you begin construction, you may realize that you need another view to ﬁgure out a particular detail, and you shouldn't have to redraw the sketch in order to add the view.   
+
+#### Layout or Assembly   
+A layout or assembly drawing includes all of the parts of your project in their ﬁnal, assembled relationship. In producing mechanical part drawings, a layout drawing of the entire assembly is done ﬁrst, and then is used to create the individual part drawings.
 
 For the purposes of sketching plans to make models this type of drawing is not that useful. It rapidly becomes muddled with the lines for each different part and begins to confuse more than clarify. Of course, if you are working in CAD, you can use different layers or colors for each part to reduce the confusion. The hand analogy for this is to use overlays for each part, but unless you really don't have access to a computer you shouldn't be doing this.
 
