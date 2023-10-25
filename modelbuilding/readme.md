@@ -13,6 +13,8 @@ In honor of this history, and some personal vanity, after keeping the files of t
 Tim Sheiner  
 25 October 2023
 
+Modelbuilding Curriculum © 1996 by Tim Sheiner is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
+
 
 
 
