@@ -10,7 +10,7 @@ In retrospect doing all this work was kind of nuts (and particularly so given I 
 
 In honor of this history, and some personal vanity, after keeping the files of this work around for 27 years, I finally undertook to convert the archaic formats (QuarkXpress and EPS) into markdown and SVG and open source the content.
 
-Tim Sheiner
+Tim Sheiner  
 25 October 2023
 
 
