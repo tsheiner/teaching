@@ -1,5 +1,4 @@
 ﻿# Foam Skills 
-
 This document treats methods for making models from structural foam.  In addition to hand techniques, some power tools will be introduced.
 
 ## Materials 
