@@ -21,7 +21,9 @@ The true way out of the problem of other people’s assumptions is to be clear a
 
 #### Implementation
 
-Creating appropriate models is simple, but it requires that you go through two steps before you 
+Creating appropriate models is simple, but it requires that you go through two steps before you begin construction: 
+1. Define the context for your model. 
+1. Find the best materials and processes for building your model.
 
 #### Define the Context
 
@@ -55,7 +57,7 @@ Once you have defined the context you will have a good idea of what your model s
 
 If the problem is essentially mechanical, you will need to use structural materials and precise production methods.  Aesthetic problems need materials whose surfaces can be controlled and shaped.  If you mix these up you will waste time and produce models that don’t answer the questions you were asking.
 
-*2. Cand I achieve the required level of detail?*
+*2. Can I achieve the required level of detail?*
 
 This applies to both functional and aesthetic models. Model making materials vary greatly in the level of detail they can support. Many materials come in different grades, depending on the desired level of finish.  Understand the differences and choose correctly.
 
@@ -65,7 +67,8 @@ With regards to functional issues, the level of detail you need to address is of
 
 Will the materials and process you are considering result in a model that is clear about the issues it is trying to address?  Is there anything about the color, surface, density, etc. that will distract from the message you are trying to communicate?
 
-*4. Is this choice of materials and process the most efficient way to achieve my desired result?* 
+*4. Is this choice of materials and process the most efficient way to achieve my desired result?*  
+ 
 This question asks that you consider various ways to get your message across.  For instance, imagine that you need to model a mechanism.  An actual-size, accurate model will be costly and time-consuming to make.  A less precise, scaled up version would be faster and easier. If this is just one of various mechanisms you are exploring, it may be more efficient to make the easier version to see if it works at all.  If however, you know this is the final mechanism then you should probably try to make it accurate because you will need precise information to finish your design.  Your goal should be to work hard when you need to, and save your energy for other tasks when you don’t.
 
 4. *Will the materials and process support the goals of the model?* 
