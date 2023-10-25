@@ -1,5 +1,4 @@
 ﻿# Finishing Skills
-
 This handout is focuses on painting plastic and foam, but explains a systematic approach to finishing which is relevant to other applications such as furniture or polishing metal.  I will discuss the necessary materials, move on to general issues, and then describe the specific steps in the process.  The emphasis of the method described is that finishing is a process of constructing a surface made of paint rather than simply painting the surface of your model.  
 
 ## Tools 

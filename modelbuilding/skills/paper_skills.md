@@ -1,6 +1,5 @@
 ﻿# Paper Skills
-This handout deals with techniques relevant to the creation of two dimensional projects using 
-materials like paper, card stock, illustration board, and foamcore.  While some of these materials can be used to create three dimensional structures, techniques for doing so are beyond the scope of this document.
+This handout deals with techniques relevant to the creation of two dimensional projects using materials like paper, card stock, illustration board, and foamcore.  While some of these materials can be used to create three dimensional structures, techniques for doing so are beyond the scope of this document.
 
 ## Tools 
 The most useful tools for measuring and cutting paper are described below.  

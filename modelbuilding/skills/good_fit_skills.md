@@ -1,7 +1,7 @@
 ﻿# Good Fit  
 This document is not about how to build models, but what model to build.  The good fit we will be discussing is a contextual one, not a mechanical one.  It may seem like overkill to raise what is essentially an intellectual issue in the context of a skills-based class.  However, a common mistake I see students make is not using their models as the powerful design tools that they can be.  I will try to present here a framework for deciding, in a given situation, what sort of a model to make, how much energy to expend, and what results to expect.  
 
-#### Definitions
+## Definitions
 
 I will begin by defining what I mean by good fit.  I believe that it is directly related to context, and tremendously influenced by the assumptions of the observers.
 
@@ -19,11 +19,13 @@ The most difficult part of defining the correct context is taking into considera
 
 The true way out of the problem of other people’s assumptions is to be clear about your own.  If you know what problem you want to solve, and what issues you want to consider, you can dictate the context in which your ideas should be viewed.  Because you determine the context, you can take care that what you say, show, and do is appropriate.  And by defining your assumptions you will help other people define theirs because it will become obvious to them where their ideas differ from yours.
 
-#### Implementation
+## Implementation
 
-Creating appropriate models is simple, but it requires that you go through two steps before you 
+Creating appropriate models is simple, but it requires that you go through two steps before you begin construction: 
+1. Define the context for your model. 
+1. Find the best materials and processes for building your model.
 
-#### Define the Context
+### Define the Context
 
 Defining the context means asking yourself some questions.  This process forces you to confront your own assumptions and makes you think about the assumptions that others viewing your work may have.  I believe there are five important questions to answer.
 
@@ -47,7 +49,7 @@ The effects of this should be obvious, but are often overlooked.  Be realistic a
 
 This question will make you face assumptions, yours and those of your audience.  Before you begin a model you must be realistic about your goals.  Is this a model to prove something to yourself, or is it intended to prove something to someone else?  Are you making it because you think it is the right answer, or because you think it might convince you to try something different?  Are you making this model in order to raise money or solve technical issues?  Articulating your goals is essential in allowing you to achieve them.  
 
-#### Find Materials and Process
+### Find Materials and Process
 
 Once you have defined the context you will have a good idea of what your model should look like and how it should perform.  You then need to select materials and methods for moving them that are consistent with these characteristics.  I have another set of five questions you can ask yourself.
 
@@ -55,7 +57,7 @@ Once you have defined the context you will have a good idea of what your model s
 
 If the problem is essentially mechanical, you will need to use structural materials and precise production methods.  Aesthetic problems need materials whose surfaces can be controlled and shaped.  If you mix these up you will waste time and produce models that don’t answer the questions you were asking.
 
-*2. Cand I achieve the required level of detail?*
+*2. Can I achieve the required level of detail?*
 
 This applies to both functional and aesthetic models. Model making materials vary greatly in the level of detail they can support. Many materials come in different grades, depending on the desired level of finish.  Understand the differences and choose correctly.
 
@@ -65,14 +67,15 @@ With regards to functional issues, the level of detail you need to address is of
 
 Will the materials and process you are considering result in a model that is clear about the issues it is trying to address?  Is there anything about the color, surface, density, etc. that will distract from the message you are trying to communicate?
 
-*4. Is this choice of materials and process the most efficient way to achieve my desired result?* 
+*4. Is this choice of materials and process the most efficient way to achieve my desired result?*  
+
 This question asks that you consider various ways to get your message across.  For instance, imagine that you need to model a mechanism.  An actual-size, accurate model will be costly and time-consuming to make.  A less precise, scaled up version would be faster and easier. If this is just one of various mechanisms you are exploring, it may be more efficient to make the easier version to see if it works at all.  If however, you know this is the final mechanism then you should probably try to make it accurate because you will need precise information to finish your design.  Your goal should be to work hard when you need to, and save your energy for other tasks when you don’t.
 
 4. *Will the materials and process support the goals of the model?* 
 
 Your materials and process should support the communication goals of your model.  This may mean following an indirect path.  For example, in the case of the mechanism described above, if your goal is to communicate the beauty of the mechanism to a room full of people, the accurate version might be the wrong choice.  The scaled up version will be easier to demonstrate and explain.  Don’t make the accurate version until you are ready to address detail questions.
 
-#### Justification
+## Justification
 
 Models, even inappropriate ones, take a long time to build.  Therefore, every model that you make should teach you something valuable about your project.  In the best case your model clearly shows you the solution to the problem.  However, often what you learn from your model is that there are problems with your idea.  This is a fine result.  What matters is that the energy you spent building the model has furthered your design process. 
 
@@ -90,7 +93,7 @@ Inappropriate models detract from the process. They can do this by being either 
 
 * **Can send you down the wrong path:** An insufficient model will not demonstrate the problems with its approach and so you may continue to pursue that solution only to discover later that it is flawed. 
 
-## Excessive Models
+#### Excessive Models
 
 * **Give complete answers to the wrong questions:** the solidity and tangibility of completely detailed model can distract attention from the fact that its whole approach is misguided.
 
