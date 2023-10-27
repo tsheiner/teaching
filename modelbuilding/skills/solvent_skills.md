@@ -25,7 +25,7 @@ Alcohol is a more effective degreaser than plain water.  It is also used as the 
 
 #### Acetone
 
-Acetone is an effective solvent for many two part products like resins and epoxies. It also dissolves vinyles, lacquers and adhesives and is an effective degreaser too. Acetone is major component (other than scent) in nail polish remover, so one can assume it is reasonably non-toxic.
+Acetone is an effective solvent for many two part products like resins and epoxies. It also dissolves vinyls, lacquers and adhesives and is an effective degreaser too. Acetone is major component (other than scent) in nail polish remover, so one can assume it is reasonably non-toxic.
 
 #### Paint Thinner or Mineral Spirits
 
@@ -45,7 +45,7 @@ This is the brand name solvent for rubber cement.  It is xylene.
 
 #### Lacquer Thinner
 
-Definitely the nastiest player on this list, lacquer thinner is a smorgasbord of bad ass stuff.  The exact ingredients will vary by manufacturer but expect to find petroleum distillates, alcohol, toluene, acetone, methyl ethyl ketone, propylene glycol, monomethyl ether acetate, ethfastenersyl acetate, and xylene.
+Definitely the nastiest player on this list, lacquer thinner is a smorgasbord of bad ass stuff.  The exact ingredients will vary by manufacturer but expect to find petroleum distillates, alcohol, toluene, acetone, methyl ethyl ketone, propylene glycol, monomethyl ether acetate, ethyl acetate, and xylene.
 
-Because it contains a number of toxic components use lacquer thinner for thinning only when it is explicitly called for, as with lacquer paint.  Use it as a degreaser only after you have found that acetone won’t work.
+Because it contains a number of toxic components use lacquer thinner for thinning only when it is explicitly called for, as with lacquer paint.  Use it as a degreaser only after you have found that acetone and paint thinner won’t work.
 
