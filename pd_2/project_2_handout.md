@@ -21,6 +21,10 @@ Design and construct a device that dances towards and puts out a candle.
 - Each device must start outside the arena
 - Each device will have exactly 3 minutes, including set up time, to complete its dance and put out the candle.
 - Device must be powered by stored mechanical energy; no chemical or electrical power
+- You may not drown (!!!!) or knock over the candle
+- Messy devices fail automatically
+- The performance will take place in the central atrium of the CCAC Design Campus
+
 
 ## Materials
 
@@ -60,3 +64,7 @@ Maintain an idea log as a record of everything: your thoughts, ideas, design con
 - Completeness--thoroughness of design exploration, variety of alternatives explored at all phases of the process 
 - Drawing--the range of techniques used in developing your ideas from quick thumbnails to ideas sketches to detailed construction drawings
 
+## Set Up
+Candle (Ø1.5"x.75"h) centered on base (Ø4"x5"h) centered in arena (Ø20')
+
+Good luck!
