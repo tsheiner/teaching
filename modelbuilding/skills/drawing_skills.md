@@ -1,6 +1,6 @@
 # Drawing Skills
 
-This document is about creating drawings that help you build models. My intention is to highlight a few concepts and techniques that I thinkare important. My discussion assumes an understanding of basic draftingskills, perspective, and light and shadow. If you would like to see acomplete treatment of these topics the books listed below would be agood place to start.This document is about creating drawings that help you build models. My intention is to highlight a few concepts and techniques that I think are important. My discussion assumes an understanding of basic drafting skills, perspective, and light and shadow. If you would like to see a complete treatment of these topics the books listed below would be a good place to start.
+This document is about creating drawings that help you build models. My intention is to highlight a few concepts and techniques that I think are important. My discussion assumes an understanding of basic drafting skills, perspective, and light and shadow. If you would like to see a complete treatment of these topics the books listed below would be a good place to start.
 * **Designer Primer**, Tom Porter & Sue Goodman, Charles Scribner's Sons, 1988
 * **Drawing: Creative Process**, Francis D.K. Ching, Van Nostrand Reinhold, 1990
 * **Design Rendering Techniques**, Dick Powell, Northlight Books, 1986

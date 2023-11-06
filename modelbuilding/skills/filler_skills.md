@@ -1,5 +1,4 @@
 ﻿# Filler Skills
-
 This handout discusses how to apply body fillers and glazing putty.  These materials are used after the parts of your model have been assembled, but before the model is painted.  With them you can fix mistakes, smooth surfaces and add features like fillets.
 
 ## Materials
