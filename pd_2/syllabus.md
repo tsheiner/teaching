@@ -3,14 +3,12 @@
 # Syllabus
  
 <table>
-<thead>
-  <tr>
+<tbody>
+ <tr>
     <td>Week 1</td>
     <td>9/5</td>
     <td>Group Excercise: Tower of Pulp			<br>Introduction to Product Design II			<br>Class Goals<br>Project I: Personal Digital Assistant</td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td></td>
     <td>9/7</td>
