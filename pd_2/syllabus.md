@@ -15,7 +15,7 @@
   <tr>
     <th class="tg-fgy3">Week 1</th>
     <th class="tg-fgy3">9/5</th>
-    <th class="tg-fgy3"><span style="font-weight:normal;font-style:normal">Group Excercise: Tower of Pulp</span>			<br><span style="font-weight:normal;font-style:normal">Introduction to Product Design II</span>			<br><span style="font-weight:normal;font-style:normal">Class Goals</span><br>Project I: Personal Digital Assistant</th>
+    <th class="tg-fgy3"><span style="font-weight:normal;font-style:normal">Group Excercise: Tower of Pulp</span>			<br>Introduction to Product Design II<br>Class Goals<br>Project I: Personal Digital Assistant</th>
   </tr>
 </thead>
 <tbody>
