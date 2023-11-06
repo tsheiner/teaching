@@ -5,9 +5,9 @@
 <table>
 <thead>
   <tr>
-    <th>Week 1</th>
-    <th>9/5</th>
-    <th>Group Excercise: Tower of Pulp			<br>Introduction to Product Design II			<br>Class Goals<br>Project I: Personal Digital Assistant</th>
+    <td>Week 1</td>
+    <td>9/5</td>
+    <td>Group Excercise: Tower of Pulp			<br>Introduction to Product Design II			<br>Class Goals<br>Project I: Personal Digital Assistant</td>
   </tr>
 </thead>
 <tbody>
